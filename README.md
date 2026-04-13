@@ -9,9 +9,9 @@ My interests are working for either game design or a game developer.
 
 My goals are getting a job, and continuing my education for either of the things I listed above.
 
-Contact me at 223-220-9377 or carsynking70@gmail.com
+Contact me at 223-220-9377 or carsynking70@gmail.com.
 
-About me
+# About me
 
 I love to play video games, I love to swim, I love to play outside with friends and my family, I love to explore new things, learn new things, I love going on hikes, and I love running. My career interest is being either a game developer or a game designer.
 
