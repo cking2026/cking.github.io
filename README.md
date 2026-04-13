@@ -46,7 +46,7 @@ This was a solo project that I did as an assignment for James Rumsey, it display
 
 Ball Project
 
-<img width="1913" height="1023" alt="Screenshot 2026-03-30 092414" src="https://github.com/user-attachments/assets/56446bbe-84a7-4055-8a0a-7d550715a53f" />
+<img width="1912" height="982" alt="Screenshot 2026-03-30 091914" src="https://github.com/user-attachments/assets/618559f9-12e6-400c-ab61-07b58afd3e38" />
 
 
 This was another solo project that I did for an assignment. It demonstrates that I can make games have physics because you have to push the other ball into the hoop and the other way to do that is to have physics implemented into the game.
@@ -60,26 +60,31 @@ This project demonstrates that I can change models in Unity because they were al
 Portfolio Questions
 
 1.	What is a portfolio in your own words?
+   
 A portfolio is an item where you show all your experiences, skills, what you are, and what you have accomplished throughout your life.
-2.	Who might look at your portfolio? (employer, college, etc.)
+
+3.	Who might look at your portfolio? (employer, college, etc.)
+   
 Definitely an employer, college, trade school, anything that you want to be a part of, you would probably have to show your portfolio to show that you are capable of that job.
-3.	What is the main goal of YOUR portfolio?
+
+5.	What is the main goal of YOUR portfolio?
+
 To show what I have to offer for a job, and what I can do to improve that job for future employees.
+
 
 Reflection Questions
 
 1.	 What project are you most proud of and why?
+
 I am most proud of the challenge 5 whack-a-food project we did in James Rumsey because that project shows my real debugging skills, and I thought that project to be really cool.
-2.	What skill do you still need to improve before showing this to employers?
+
+3.	What skill do you still need to improve before showing this to employers?
+   
 I would need to improve on communication skills, and I need to improve on getting to know other programming languages.
 
-3.	How will this portfolio help you in the future?
+5.	How will this portfolio help you in the future?
+   
 Yes, because it shows the most important projects that I’ve done, and it shows how I can be efficient in what I’m trying to do.
+
 Reflection
-I learned how to problem solve code, what kind of errors the code can have and to fix those errors, how to access put my games on Unity Play, how to change models for games, how to add gameobjects in Unity's engine, how to do all the things that people who actually work at Unity do. I also learned how to use GitHub and why it is important for single developers or a team to use it.
-
-
-
-My strongest project that I like is Whack-A-Food. It demonstrates my problem solving skills ,and it demonstrates that I can build a working game.
-
-I would like to improve my coding skills, learn more about what functions I could use, and I want to learn more about the Unity editor as what we learned in class is a small amount of what actually is in the Unity engine.
+I learned how to problem solve code, what kind of errors the code can have and to fix those errors, how to access put my games on Unity Play, how to change models for games, how to add gameobjects in Unity's engine, how to do all the things that people who actually work at Unity do. I also learned how to use GitHub and why it is important for single developers or a team to use it. My strongest project that I like is Whack-A-Food. It demonstrates my problem solving skills ,and it demonstrates that I can build a working game. I would like to improve my coding skills, learn more about what functions I could use, and I want to learn more about the Unity editor as what we learned in class is a small amount of what actually is in the Unity engine.
