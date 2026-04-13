@@ -26,7 +26,7 @@ Education: James Rumsey Technical Institute, Berkeley Springs High School
 
 Skill: Working in Unity with programming languages called, C#, some Python, and HTML.
 
-Projects
+# Projects
 
 I would select my Challenge 5 Whack-a-food project, it's basically where you click on the food as fast as you can in order to gain as much score as possible. If you miss one, the game ends. This challenge shows my skill of fixing code, and learning how to fix it. I chose this project because it is my favorite project that I’ve done. It looks like a real working game.
 
@@ -37,7 +37,7 @@ Certifications
 
 Certification in PowerPoint.
 
-Project Pictures
+# Project Pictures
 
 Challenge 5: Whack-A-Food Project
 
@@ -58,7 +58,7 @@ Doge The Animal
 
 This project demonstrates that I can change models in Unity because they were all balls, but I changed them to animals because it makes the game look nice, the blue object is the powerup, collect that to destroy the animals that are heading towards you.
 
-Portfolio Questions
+# Portfolio Questions
 
 1.	What is a portfolio in your own words?
    
@@ -73,7 +73,7 @@ Definitely an employer, college, trade school, anything that you want to be a pa
 To show what I have to offer for a job, and what I can do to improve that job for future employees.
 
 
-Reflection Questions
+# Reflection Questions
 
 1.	 What project are you most proud of and why?
 
@@ -87,5 +87,5 @@ I would need to improve on communication skills, and I need to improve on gettin
    
 Yes, because it shows the most important projects that I’ve done, and it shows how I can be efficient in what I’m trying to do.
 
-Reflection
+# Reflection
 I learned how to problem solve code, what kind of errors the code can have and to fix those errors, how to access put my games on Unity Play, how to change models for games, how to add gameobjects in Unity's engine, how to do all the things that people who actually work at Unity do. I also learned how to use GitHub and why it is important for single developers or a team to use it. My strongest project that I like is Whack-A-Food. It demonstrates my problem solving skills ,and it demonstrates that I can build a working game. I would like to improve my coding skills, learn more about what functions I could use, and I want to learn more about the Unity editor as what we learned in class is a small amount of what actually is in the Unity engine.
