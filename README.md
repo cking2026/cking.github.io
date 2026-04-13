@@ -36,6 +36,7 @@ I did another project called Doge The Animal, it's a game where you are an anima
 Certifications
 
 Certification in PowerPoint.
+
 Project Pictures
 
 Challenge 5: Whack-A-Food Project
