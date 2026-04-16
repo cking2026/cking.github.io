@@ -17,7 +17,7 @@ I love to play video games, I love to swim, I love to play outside with friends 
 
 My skills are that I know the basics of C#, and I know a little bit of Python. I know a lot about Unity as that is my primary game engine that I work on. I know how to solve technical problems with computers, and I can work with others to find a solution to a problem.
 
-My strengths are problem solving, finding solutions to their problems, and team work.
+My strengths are problem-solving, Crtitical thinking, and communication.
 
 
 
